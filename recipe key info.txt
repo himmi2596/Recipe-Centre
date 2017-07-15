@@ -1,0 +1,13 @@
+Recipe Centre
+
+unique key:
+ 5dcca78c006183233e482d8578bc1574 
+
+request id(url)
+ http://food2fork.com/api/search?key=5dcca78c006183233e482d8578bc1574&q=pasta
+
+search(to search all recipes)
+ http://food2fork.com/api/search?key=5dcca78c006183233e482d8578bc1574
+
+get the info of particular ip whoce recipe id is known
+ http://food2fork.com/api/get?key=5dcca78c006183233e482d8578bc1574&rId=47025
