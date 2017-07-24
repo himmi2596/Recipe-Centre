@@ -1,0 +1,10 @@
+youtube api key
+
+AIzaSyDs1pz_m8Xq0T9J735iecKjhRhLDygoQkA
+
+http request
+
+https://www.googleapis.com/youtube/v3/search
+
+vedio quality
+https://i.ytimg.com/vi/vedioId/mqdefault.jpg
